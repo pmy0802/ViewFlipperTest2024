@@ -17,13 +17,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="15dp"
-            android:text="Prev"/>
+            android:text="Start Picture"/>
         <Button
             android:id="@+id/btnNext"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginRight="15dp"
-            android:text="Next"/>
+            android:text="Stop Picture"/>
     </LinearLayout>
     <ViewFlipper
         android:id="@+id/flipper"
